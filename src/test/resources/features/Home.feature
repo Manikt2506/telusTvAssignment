@@ -8,4 +8,4 @@ Feature: This is home page
     And User scroll to Movies section and clicks on View All
     And User clicks on Filter and select Animated section
     Then User find and selects an asset with rating E
-#    And User clicks the asset poster to open the details page
+
