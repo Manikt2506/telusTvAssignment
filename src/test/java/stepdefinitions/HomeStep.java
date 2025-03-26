@@ -42,9 +42,4 @@ public class HomeStep extends BasePage {
         homePage.clickOnElementWithRatingE();
     }
 
-//    @And("User clicks the asset poster to open the details page")
-//    public void user_clicks_the_asset_poster_to_open_the_details_page() {
-//
-//
-//    }
 }
